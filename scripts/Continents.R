@@ -32,4 +32,4 @@ make_pngplot <- function(name){
 arg <- commandArgs(TRUE)
 try(make_pngplot(arg[1]))
 
-
+#Testing gitdif
