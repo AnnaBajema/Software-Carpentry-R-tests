@@ -10,3 +10,4 @@ CalGDP <- function(dat){ #define funtion name <- function(arbitary parameter nam
 
 CalGDP(gapminder)# call to the funtion. Put in brackets what information is needed to run the funtion. This can be a signle digit (as in example on BasicFunctions script) or it can be referenceing to a data set (as used in this function)
 #ajsdfhasfhashfashfa
+#HELLO NIGEL.... I SEE YOUUUU
